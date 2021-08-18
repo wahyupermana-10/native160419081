@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toast.makeText(this, "Namaku Bagus", Toast.LENGTH_SHORT).show()
+
+        Toast.makeText(this, "Nama Saya I Made Rama", Toast.LENGTH_SHORT).show()
     }
 }
